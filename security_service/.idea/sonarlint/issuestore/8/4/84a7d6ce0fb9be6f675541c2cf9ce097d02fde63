@@ -1,0 +1,9 @@
+
+p	java:S116"VRename this field "IMAGE_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¯ï‘üÿÿÿÿ
+q	java:S116"WRename this field "IMAGE_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¦ã¥ùÿÿÿÿ
+J
+java:S1948"4Make "currentCameraImage" transient or serializable.(¼«ƒç
+G
+java:S1602@",Remove useless curly braces around statement(ëÃë ýÿÿÿÿ
+I
+java:S1068"3Remove this unused "securityService" private field.(Â­¶±

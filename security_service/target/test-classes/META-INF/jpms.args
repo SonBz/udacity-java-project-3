@@ -1,0 +1,4 @@
+--patch-module
+com.sbz.security=_
+--add-reads
+com.sbz.security=ALL-UNNAMED

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.m2/settings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/8b9310a8-a517-4ecc-bfec-d0ca6b468a03/console_3.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/main/java/sg/com/ncs/shdmclient/service/impl/AddressRelationshipServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/main/java/sg/com/ncs/shdmclient/service/impl/AwardServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/main/java/sg/com/ncs/shdmclient/service/impl/ExamCandRegServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/main/java/sg/com/ncs/shdmclient/service/impl/ExamGCEAOverallServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/main/java/sg/com/ncs/shdmclient/service/impl/ExamGCENOverallServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/main/java/sg/com/ncs/shdmclient/service/impl/ExamGCEOOverallServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/main/java/sg/com/ncs/shdmclient/service/impl/ExamGCERegServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/main/java/sg/com/ncs/shdmclient/service/impl/ExamIBEResultServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/main/java/sg/com/ncs/shdmclient/service/impl/ExamPSLEAggPostServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/main/java/sg/com/ncs/shdmclient/service/impl/ExamPSLERegServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/main/java/sg/com/ncs/shdmclient/service/impl/ExamPSLEResultServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/main/java/sg/com/ncs/shdmclient/service/impl/PPUPGDtlServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/main/java/sg/com/ncs/shdmclient/service/impl/RelationshipServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/main/java/sg/com/ncs/shdmclient/service/impl/StudentIPServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/main/java/sg/com/ncs/webclient/ApacheAsyncWebClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/main/java/sg/com/ncs/webclient/ApacheWebClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/test/java/sg/com/ncs/shdmclient/service/ExamCandRegServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/NCS/StudentHub/code/bitbucket/pu-core-service-client/src/test/java/sg/com/ncs/shdmclient/service/ExamPSLERegServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/image_service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/image_service/src/main/java/com/sbz/image/AwsImageService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/image_service/src/main/java/com/sbz/image/FakeImageService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/image_service/src/main/java/com/sbz/image/ImageService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/image_service/src/main/java/module-info.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/security_service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/security_service/src/main/java/com/sbz/security/application/CatpointApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/security_service/src/main/java/com/sbz/security/application/SensorPanel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/security_service/src/main/java/com/sbz/security/data/PretendDatabaseSecurityRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/security_service/src/main/java/com/sbz/security/data/SecurityRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/security_service/src/main/java/com/sbz/security/data/Sensor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/security_service/src/main/java/com/sbz/security/service/SecurityService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/security_service/src/main/java/com/sbz/security/service/StyleService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/security_service/src/main/java/module-info.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/security_service/src/test/java/com/sbz/security/service/SecurityServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

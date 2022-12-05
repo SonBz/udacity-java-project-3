@@ -1,0 +1,15 @@
+
+n	java:S131j"YComplete cases by adding the missing enum constants or add a default case to this switch.(¦¬×
+n	java:S131t"YComplete cases by adding the missing enum constants or add a default case to this switch.(¦¬×
+a
+java:S1301j"KReplace this "switch" statement by "if" statements to increase readability.(¦¬×
+a
+java:S1301t"KReplace this "switch" statement by "if" statements to increase readability.(¦¬×
+@
+java:S5411C"*Use the primitive boolean expression here.(Õîô
+@
+java:S5411E"*Use the primitive boolean expression here.(¹½¬
+A
+java:S5411ƒ"*Use the primitive boolean expression here.(•ëŞ‚
+@
+java:S5411…"*Use the primitive boolean expression here.(ÎÉª

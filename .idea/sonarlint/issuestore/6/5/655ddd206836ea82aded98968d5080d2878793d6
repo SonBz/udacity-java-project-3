@@ -1,0 +1,7 @@
+
+I
+java:S30109".Remove this assignment of "rekognitionClient".(çïæıÿÿÿÿÿ
+c
+java:S4034Q"HReplace this "filter().findFirst().isPresent()" chain with "anyMatch()".(˜Åœşÿÿÿÿ
+?
+java:S2629U"$Invoke method(s) only conditionally.(–ÔğÈûÿÿÿÿ
